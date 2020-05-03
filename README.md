@@ -1,2 +1,2 @@
 # python
-learn python code
+learn python basic code....!!
